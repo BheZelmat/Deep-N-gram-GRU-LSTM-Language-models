@@ -1,6 +1,6 @@
 # Deep-N-gram-GRU-LSTM-Language-models
 
-![alt text](https://github.com/BheZelmat/BreadcrumbsDeep-N-gram-GRU-LSTM-Language-models/blob/main/img.png?raw=true)
+![alt text](https://github.com/BheZelmat/Deep-N-gram-GRU-LSTM-Language-models/blob/main/img.png?raw=true)
 
 ## Overview
 This Notebook outlines the creation of advanced language models using GRU and LSTM networks to predict the next character in a sequence, aiding in understanding the practical application of these models in natural language processing.
